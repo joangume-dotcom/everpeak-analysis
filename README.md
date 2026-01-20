@@ -1,13 +1,19 @@
-# EverPeak Retail Analysis – Sprint 6
+#Latinoamérica, ConnectaTel. proyecto – Sprint 7
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del caso EverPeak.
+Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel.
 
-El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+Trabajaremos con información registrada hasta el año 2024, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo.
+
+Para ello trabajarás con tres datasets:
+
+plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
+users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
+usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
+
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
+
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
