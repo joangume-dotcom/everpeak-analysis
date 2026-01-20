@@ -12,19 +12,8 @@ usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 
 ## 📂 Contenido del repositorio
-
-
-
-## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
-1. Abre el archivo `.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
+https://github.com/joangume-dotcom/everpeak-analysis/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
+Documento README
 
 ## 📘 Cómo reproducir el análisis
 
@@ -37,4 +26,4 @@ O:
 - Identificar problemas de calidad de datos
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de EverPeak
+- Generar insights para el equipo de Estrategia e Integración de ConnectaTel.
